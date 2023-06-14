@@ -4,3 +4,5 @@ folked from ADCA, add new loss functions to this repo!!
 debug meter.py
 
 debug adca_sysu_train.py
+
+debug adca_regdb_train.py
